@@ -26,10 +26,3 @@ Computação em nuvem é a entrega de serviços de TI (como armazenamento, servi
 ## 📌 5. Segurança e Responsabilidade Compartilhada
 - A Microsoft cuida da infraestrutura
 - O cliente cuida dos dados e configurações
-
-## 📌 6. Custos e Governança
-- Modelo pay-as-you-go (pague pelo uso)
-- Ferramentas para:
-- controle de custos
-- compliance
-- monitoramento
